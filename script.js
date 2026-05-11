@@ -37,11 +37,26 @@
 //                          operators ( + - * / )
 //                             ex. 11 = x + 5);
 
-let people = 31;
+let people = 30;
 //people = people + 1;
 //people = people - 1;
 //people = people * 2;
-people = people / 2;
+//people = people / 2;
+//people **= 2;
+//people %=2;
+
+//people++;
+//people--;
+
+//people += 2;
+//people -= 2;
+//people *= 2;
+//people /= 2;
+//people **= 2;
+//people %= 2;
+
+//people++;
+people --;
 console.log(people);
 
 
